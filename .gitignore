@@ -1,0 +1,11 @@
+artifacts/
+dist/
+bin/
+obj/
+Managed/
+Config/
+*.log
+*.pdb
+*.user
+.env
+.env.*

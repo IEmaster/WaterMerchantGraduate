@@ -1,0 +1,8 @@
+﻿mod.name,"Pure Water, One Click"
+mod.description,Faucets dispense 100% pure water and fill all remaining capacity. Matching water-quality tooltips. Standalone; no other mods required.
+quality,Output quality: pure water
+composition,Water                     100.00%
+instruction,Use a container on the faucet to fill its remaining capacity.
+preserve,"Existing contents are mixed with the new water, not removed."
+locked,No water supply connected. Unlock a water-supply line first.
+after.connect,"Once connected: 100% pure water, filled to capacity."

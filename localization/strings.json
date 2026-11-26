@@ -1,0 +1,42 @@
+{
+  "mod.name": [
+    "水商一键毕业",
+    "水商一鍵畢業",
+    "Pure Water, One Click"
+  ],
+  "mod.description": [
+    "水龙头输出100%纯水，一次接满剩余容量；同步水质提示。独立运行，无需其他模组。",
+    "水龍頭輸出100%純水，一次接滿剩餘容量；同步水質提示。獨立運作，無需其他模組。",
+    "Faucets dispense 100% pure water and fill all remaining capacity. Matching water-quality tooltips. Standalone; no other mods required."
+  ],
+  "quality": [
+    "出水水质：纯水",
+    "出水水質：純水",
+    "Output quality: pure water"
+  ],
+  "composition": [
+    "水                         100.00%",
+    "水                         100.00%",
+    "Water                     100.00%"
+  ],
+  "instruction": [
+    "将容器对水龙头使用，一次接满剩余容量。",
+    "將容器對水龍頭使用，一次接滿剩餘容量。",
+    "Use a container on the faucet to fill its remaining capacity."
+  ],
+  "preserve": [
+    "原有内容物会混合，不会被清空。",
+    "原有內容物會混合，不會被清空。",
+    "Existing contents are mixed with the new water, not removed."
+  ],
+  "locked": [
+    "水管尚未接通。先解锁任意供水管线。",
+    "水管尚未接通。請先解鎖任一供水管線。",
+    "No water supply connected. Unlock a water-supply line first."
+  ],
+  "after.connect": [
+    "接通后出水：100%纯水，一次接满。",
+    "接通後出水：100%純水，一次接滿。",
+    "Once connected: 100% pure water, filled to capacity."
+  ]
+}

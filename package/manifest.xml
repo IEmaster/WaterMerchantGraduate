@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModManifest>
+  <ID>water_merchant_graduate</ID>
+  <Name>水商一键毕业</Name>
+  <Author>IEmaster</Author>
+  <ModVersion>1.1.0</ModVersion>
+  <Description>水龙头统一输出100%纯水，一次接满容器剩余容量；同步更新普通和高级水龙头提示。独立运行，无需其他模组。</Description>
+  <GameVersions><Version>0.46D</Version></GameVersions>
+  <Prerequisites />
+  <Assemblies><Assembly>WaterMerchantGraduate.dll</Assembly></Assemblies>
+  <Capabilities />
+</ModManifest>
+

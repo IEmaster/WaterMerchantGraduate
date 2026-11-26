@@ -1,0 +1,8 @@
+﻿mod.name,水商一键毕业
+mod.description,水龙头输出100%纯水，一次接满剩余容量；同步水质提示。独立运行，无需其他模组。
+quality,出水水质：纯水
+composition,水                         100.00%
+instruction,将容器对水龙头使用，一次接满剩余容量。
+preserve,原有内容物会混合，不会被清空。
+locked,水管尚未接通。先解锁任意供水管线。
+after.connect,接通后出水：100%纯水，一次接满。
