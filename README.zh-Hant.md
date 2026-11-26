@@ -1,6 +1,6 @@
 [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
 
-[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub Releases](https://github.com/IEmaster/WaterMerchantGraduate/releases)
+[Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 ![cover](docs/cover.png)
 

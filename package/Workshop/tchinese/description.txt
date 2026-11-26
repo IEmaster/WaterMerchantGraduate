@@ -28,3 +28,7 @@
 支援簡體中文、繁體中文與英文，預設跟隨遊戲。可在遊戲模組選單中開啟本模組設定，於Language選擇「繁體中文」，立即生效。其他語言回退至英文。工坊封面採中英雙語。
 
 適用目前0.46D／VERSION 100-Rev13 API。
+
+[h2]專案連結[/h2]
+[url=https://github.com/IEmaster/WaterMerchantGraduate]GitHub 原始碼與說明[/url]
+[url=https://github.com/IEmaster/WaterMerchantGraduate/releases/latest]GitHub 最新下載套件[/url]

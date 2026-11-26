@@ -1,4 +1,6 @@
-﻿Pure Water, One Click
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [Latest download](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
+
+Pure Water, One Click
 100% pure water straight from the faucet. Fill all remaining container capacity in one use.
 
 Before you graduate

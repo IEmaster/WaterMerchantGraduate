@@ -1,4 +1,6 @@
-﻿水商一鍵畢業
+[Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
+
+水商一鍵畢業
 水龍頭直接輸出100%純水，一次接滿容器剩餘容量。
 
 畢業前提醒

@@ -28,3 +28,7 @@ Subscribe, enable the mod and restart when prompted. Use a container on a faucet
 Simplified Chinese, Traditional Chinese and English. The default follows the game. To choose explicitly, open this mod's settings in the game Modding menu and set Language. Changes apply immediately. English is the fallback for other languages. The Workshop cover is Chinese/English bilingual.
 
 Built for the current 0.46D / VERSION 100-Rev13 API.
+
+[h2]Project links[/h2]
+[url=https://github.com/IEmaster/WaterMerchantGraduate]GitHub source and documentation[/url]
+[url=https://github.com/IEmaster/WaterMerchantGraduate/releases/latest]Latest GitHub download[/url]
