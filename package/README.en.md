@@ -1,4 +1,4 @@
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [Latest download](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
+﻿[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [Latest download](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 Pure Water, One Click
 100% pure water straight from the faucet. Fill all remaining container capacity in one use.
@@ -30,3 +30,9 @@ Languages
 Simplified Chinese, Traditional Chinese and English. The default follows the game. To choose explicitly, open this mod's settings in the game Modding menu and set Language. Changes apply immediately. English is the fallback for other languages. The Workshop cover is Chinese/English bilingual.
 
 Built for the current 0.46D / VERSION 100-Rev13 API.
+
+## Cover and gallery
+
+The main cover is 16:9 landscape. The original square artwork remains in the Workshop gallery. Artwork-only update; gameplay version unchanged.
+
+[Original square artwork](https://raw.githubusercontent.com/IEmaster/WaterMerchantGraduate/main/docs/cover.png)

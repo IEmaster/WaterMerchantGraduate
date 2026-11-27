@@ -1,4 +1,4 @@
-[Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
+﻿[Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 水商一鍵畢業
 水龍頭直接輸出100%純水，一次接滿容器剩餘容量。
@@ -30,3 +30,9 @@
 支援簡體中文、繁體中文與英文，預設跟隨遊戲。可在遊戲模組選單中開啟本模組設定，於Language選擇「繁體中文」，立即生效。其他語言回退至英文。工坊封面採中英雙語。
 
 適用目前0.46D／VERSION 100-Rev13 API。
+
+## 封面與圖庫
+
+主封面採用16:9橫版；原正方形封面保留於工坊附加圖片。僅更新宣傳圖，遊戲功能版本不變。
+
+[Original square artwork](https://raw.githubusercontent.com/IEmaster/WaterMerchantGraduate/main/docs/cover.png)

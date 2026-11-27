@@ -1,8 +1,8 @@
-[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
+﻿[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [Latest download](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
-![cover](docs/cover.png)
+![cover](docs/cover-landscape.png)
 
 # Pure Water, One Click 1.1.0
 
@@ -59,3 +59,9 @@ You may pass `-CompilerPath` explicitly. The script builds `package/`, runs the 
 - `localization/strings.json`: translation source for Simplified Chinese, Traditional Chinese and English.
 
 After editing translations, run `python tools/generate-localization.py`, then rebuild. Keep mod and item IDs unchanged for save compatibility.
+
+## Cover and gallery
+
+The main cover is 16:9 landscape. The original square artwork remains in the Workshop gallery. Artwork-only update; gameplay version unchanged.
+
+[Original square artwork](https://raw.githubusercontent.com/IEmaster/WaterMerchantGraduate/main/docs/cover.png)

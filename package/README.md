@@ -1,4 +1,4 @@
-[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下载](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
+﻿[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下载](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 # 水商一键毕业 1.1.0
 
@@ -29,3 +29,9 @@
 ## 语言 / 語言 / Language
 
 支持简体中文、繁體中文、English。默认跟随游戏语言；可在模组设置的Language中手动切换并即时生效。原版游戏可能将繁体环境映射为zh，需要繁体时请选择“繁體中文”。未适配语言回退至英文。工坊封面为中英双语。
+
+## 封面与图库
+
+主封面采用16:9横版；原正方形封面保留在工坊附加图片中。仅更新宣传图，游戏功能版本不变。
+
+[Original square artwork](https://raw.githubusercontent.com/IEmaster/WaterMerchantGraduate/main/docs/cover.png)

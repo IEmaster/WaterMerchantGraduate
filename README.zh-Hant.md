@@ -1,8 +1,8 @@
-[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
+﻿[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
 
 [Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
-![cover](docs/cover.png)
+![cover](docs/cover-landscape.png)
 
 # 水商一鍵畢業 1.1.0
 
@@ -52,3 +52,9 @@
 可以用 `-CompilerPath` 指定编译器。构建脚本输出到 `package/`，执行原生权限扫描与代码模拟测试，并生成 `dist/WaterMerchantGraduate-1.1.0.zip`。测试不控制游戏窗口。
 
 `src/` 为源码，`tests/` 为测试，`package/` 为安装内容。编辑 `localization/strings.json` 后，运行 `python tools/generate-localization.py` 再重新构建。请保留模组及物品ID，以兼容已有存档。
+
+## 封面與圖庫
+
+主封面採用16:9橫版；原正方形封面保留於工坊附加圖片。僅更新宣傳圖，遊戲功能版本不變。
+
+[Original square artwork](https://raw.githubusercontent.com/IEmaster/WaterMerchantGraduate/main/docs/cover.png)
