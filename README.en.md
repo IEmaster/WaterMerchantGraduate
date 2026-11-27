@@ -1,5 +1,8 @@
 ﻿[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
 
+Wilde has added a filter to your faucet! Your faucet can now unlock pure water!
+
+
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [Latest download](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 ![cover](docs/cover-landscape.png)

@@ -1,5 +1,8 @@
 ﻿[简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md)
 
+王爾德給你的水龍頭增加了過濾器！現在你的水龍頭可以解鎖純水材質了！
+
+
 [Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
 ![cover](docs/cover-landscape.png)

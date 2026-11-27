@@ -1,5 +1,8 @@
 ﻿[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下载](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
+王尔德给你的水龙头增加了过滤器！现在你的水龙头可以解锁纯水材质了！
+
+
 # 水商一键毕业 1.1.0
 
 启用后，将容器按原版方式对水龙头使用：水龙头添加的水统一为100%纯水，并一次填满容器剩余容量。无需热键、面板、AI或额外依赖。

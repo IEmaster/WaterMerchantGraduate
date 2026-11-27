@@ -1,5 +1,8 @@
 ﻿[Steam 創意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3841987033) · [GitHub](https://github.com/IEmaster/WaterMerchantGraduate) · [最新下載](https://github.com/IEmaster/WaterMerchantGraduate/releases/latest)
 
+王爾德給你的水龍頭增加了過濾器！現在你的水龍頭可以解鎖純水材質了！
+
+
 水商一鍵畢業
 水龍頭直接輸出100%純水，一次接滿容器剩餘容量。
 
